@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/>
   <h1>Hi there, I'm Halit Can! <img src="https://media.giphy.com/media/hvRJCLFzcuMiCv8u2x/giphy.gif" width="30px"></h1>
-  <h3>Software Engineering Student & Aspiring Backend Developer</h3>
+  <h3>Software Engineering Student</h3>
 </div>
 
 <br/>
