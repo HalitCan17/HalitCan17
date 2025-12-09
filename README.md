@@ -12,6 +12,7 @@
 - 💻 I’m currently focusing on **.NET Core, C# and Software Architectures**.
 - 📚 I’m deeply interested in **Data Structures, Algorithms, and Design Patterns**.
 - 🚀 My goal is to build scalable web applications and become a proficient Backend Engineer.
+- 🛍️ Check out my **StoreApp** repository to see my work on Layered Architecture!
 
 <br/>
 
@@ -28,21 +29,8 @@
 
 <br/>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HalitCan17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="HalitCan17's GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalitCan17&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://linkedin.com/in/senin-kullanici-adin" target="_blank">
+<div align="left">
+  <a href="https://www.linkedin.com/in/halit-can-18571a353" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:seninmailin@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
