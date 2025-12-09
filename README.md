@@ -12,7 +12,6 @@
 - 💻 I’m currently focusing on **.NET Core, C# and Software Architectures**.
 - 📚 I’m deeply interested in **Data Structures, Algorithms, and Design Patterns**.
 - 🚀 My goal is to build scalable web applications and become a proficient Backend Engineer.
-- 🛍️ Check out my **StoreApp** repository to see my work on Layered Architecture!
 
 <br/>
 
